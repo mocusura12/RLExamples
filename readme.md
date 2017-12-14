@@ -10,3 +10,10 @@
 - Cartpole_REINFORCE : 카트폴 쓰러트리지 않기 학습. REINFORCE로. 
 - Cartpole_ActorCritic : 카트폴 쓰러트리지 않기 학습. Actor-Critic 방법으로.
 
+* Cartpole_Keyboard는 https://github.com/openai/gym/blob/master/examples/agents/keyboard_agent.py 의 내용을 조금 변경하였으며, Cartpole_DQN, Cartpole_REINFORCE, Cartpole_ActorCriti은 https://github.com/rlcode/reinforcement-learning/tree/master/2-cartpole 의 내용을 조금 변경하였습니다.
+
+* 모든 .py 파일은 "jupyter nbconvert -to script *.ipynb"을 통해 생성되었습니다.
+
+* 숨은원리 출판사 : blog.naver.com/kwonpub
+              www.facebook.com/kwonpub
+		   	  kwonpub.com
